@@ -777,6 +777,7 @@ input[type='checkbox'] {
 }
 
 .basic-1 .image-container img {
+	padding-top: 2.4rem;
 	margin: 0;
 	border-radius: 0.25rem;
 	transition: all 0.3s;
@@ -2265,6 +2266,7 @@ a:hover.back-to-top {
 
 	/* Details 1 */
 	.accordion .accordion-container {
+		margin-top: -5rem;
 		max-width: 28rem;
 		margin-left: 5rem;
 	}
